@@ -8,6 +8,7 @@
         integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <link rel="stylesheet" href="../../assets/css/footer.css">
 <link rel="stylesheet" href="../../assets/css/topo.css">
+<link rel="stylesheet" href="../../assets/css/login.css">
     <title>Document</title>
 </head>
 <body>
@@ -23,16 +24,16 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="">Camisetas <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="#">Camisetas <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link" href="">Calças <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="#">Calças <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link" href="">Tênis <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="#">Tênis <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link" href="">Conta <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="views/login.php">Conta <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item active">
                             <a class="nav-link" href="#">Carrinho <span class="sr-only">(current)</span></a>
