@@ -1,5 +1,5 @@
  <?php  
- require_once 'views/layout/topo.php'; 
+ require_once '../views/layout/topo.php'; 
  ?>
 
  <!-- Produtos -->
@@ -70,4 +70,4 @@
     </div>
 </div>
 
-<?php require_once 'views/layout/rodape.php'; ?>
+<?php require_once '../views/layout/rodape.php'; ?>

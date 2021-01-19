@@ -1,5 +1,5 @@
     <!-- Footer -->
-    <footer class="rodape text-white">
+    <footer class="rodape text-white bg-dark">
         <div class="container mt-5 py-5">
             <div class="row d-flex justify-content-center">
                 <h5>Loja Virtual</h5>
