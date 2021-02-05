@@ -1,7 +1,11 @@
 {
     "autoload": {
         "psr-4": {
-            "loja_virtual\\app\\": "app/"
+            "app\\Controller\\" : "app/controllers/",
+            "app\\Model\\" : "app/models/"
         }
+    },
+    "require": {
+        "coffeecode/router": "^1.0"
     }
 }

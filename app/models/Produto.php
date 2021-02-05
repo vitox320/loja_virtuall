@@ -1,9 +1,10 @@
-<?php 
+<?php
 
 
-namespace app\models;
+namespace app\Model;
 
-class Produto {
+class Produto
+{
     protected $nome;
     protected $descricao;
     protected $preco;
@@ -20,5 +21,16 @@ class Produto {
         $this->$name = $value;
     }
 
-   
+    public function create()
+    {
+    }
+    public function read()
+    {
+    }
+    public function update()
+    {
+    }
+    public function delete()
+    {
+    }
 }
